@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name lib)(type KiCad)(uri D:/PROJETS/numeroBis/electronics/lib)(options "")(descr ""))
+  (lib (name "mini victory l298n - H bridge driver")(type KiCad)(uri "D:/PROJETS/Modules/mini victory l298n - H bridge driver/mini victory l298n - H bridge driver.pretty")(options "")(descr ""))
+  (lib (name v3)(type KiCad)(uri D:/PROJETS/numeroBis/electronics/v3)(options "")(descr ""))
+)

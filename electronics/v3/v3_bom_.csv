@@ -1,0 +1,35 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet
+1,Multiple-cell battery,Battery,BT101,Battery,,1,~
+2,Unpolarized capacitor,C,C101 C102,100n,CP_Radial_D5.0mm_P2.50mm,2,~
+3,Light emitting diode,LED,D101 D102 D109 D110,LED,LED_D5.0mm,4,~
+4,,ArduinoProMini,IC101,ArduinoProMini,pro_mini,1,
+5,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x02_Female,J103,Conn_01x02_Female,Molex_KK-6410-02_02x2.54mm_Straight,1,~
+6,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x03_Female,J106,Conn_01x03_Female,Pin_Header_Straight_1x03_Pitch2.54mm,1,~
+7,"Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x06_Female,J101 J102,Conn_01x06_Female,Molex_KK-6410-06_06x2.54mm_Straight,2,~
+8,"Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_02x02_Odd_Even,J104,Conn_02x02_Odd_Even,Pin_Header_Straight_2x02_Pitch2.54mm,1,~
+9,"Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_02x03_Odd_Even,J105,Conn_02x03_Odd_Even,Pin_Header_Straight_2x03_Pitch2.54mm,1,~
+10,,miniVictoryL298N,PCB101,miniVictoryL298N,miniVictoryL298N,1,
+11,"1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92",PN2222A,Q101 Q102,PN2222A,TO-92_Inline_Wide,2,http://www.fairchildsemi.com/ds/PN/PN2222A.pdf
+12,Resistor,R,R104 R105,2.2k,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,2,~
+13,Resistor,R,R101 R102 R103 R106 R107 R108 R109 R116 R117,R,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,9,~
+14,"Push button switch, generic, two pins",SW_Push,SW101 SW102 SW103,SW_Push,SW_PUSH_6mm_h4.3mm,3,
+15,"Push button switch, generic, two pins",SW_Push,SW104,SW_Push,SW_CuK_OS102011MA1QN1_SPDT_Angled,1,
+16,,GP2Y0D810Z0F,U106 U107 U108,GP2Y0D810Z0F,Pin_Header_Straight_1x03_Pitch2.54mm,3,
+17,"Positive 1.5A 35V Linear Regulator, Fixed Output 5V, TO-220/TO-263/TO-252",L7805,U101,L7805,TO-220-3_Vertical,1,http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf
+18,,QTR-1A,U102 U103,QTR-1A,Pin_Header_Angled_1x03_Pitch2.54mm,2,
+19,,VL53L0X_module,U104 U105 U109,VL53L0X_module,Pin_Header_Straight_1x07_Pitch2.54mm,3,
+
+
+
+
+
+Component Groups:,19
+Component Count:,41
+Fitted Components:,41
+Number of PCBs:,1
+Total components:,41
+Schematic Version:,
+Schematic Date:,
+BoM Date:,27/01/2019 01:19:02
+Schematic Source:,D:\PROJETS\numeroBis\electronics\v2\v2.sch
+KiCad Version:,Eeschema (5.0.2)-1

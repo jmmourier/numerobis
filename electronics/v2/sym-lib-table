@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name arduinoProMini)(type Legacy)(uri D:/PROJETS/numeroBis/electronics/lib/arduinoProMini.lib)(options "")(descr ""))
+  (lib (name miniVictoryL298N)(type Legacy)(uri "D:/PROJETS/Modules/mini victory l298n - H bridge driver/miniVictoryL298N.lib")(options "")(descr ""))
+  (lib (name QTR-1A)(type Legacy)(uri "D:/PROJETS/Modules/IRS01A - line detector/QTR-1A.lib")(options "")(descr ""))
+  (lib (name VL53L0X)(type Legacy)(uri D:/PROJETS/Modules/VL53L0X/VL53L0X.lib)(options "")(descr ""))
+  (lib (name GP2Y0D810Z0F)(type Legacy)(uri "D:/PROJETS/Modules/GP2Y0D810Z0F - presence detector/GP2Y0D810Z0F.lib")(options "")(descr ""))
+)

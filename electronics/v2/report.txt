@@ -1,0 +1,500 @@
+Info: Vérification du composant de la netliste "Q101:/5C6FB04E:TO_SOT_Packages_THT:TO-92_Inline_Wide".
+
+Info: Vérification du composant de la netliste "R107:/5C2FEE8B:Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Info: Vérification du composant de la netliste "R106:/5C78FABF:Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Info: Vérification du composant de la netliste "R105:/5C61CC33:Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Info: Vérification du composant de la netliste "R104:/5C61CC9F:Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Info: Vérification du composant de la netliste "R103:/5C2E8244:Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Info: Vérification du composant de la netliste "R102:/5C2E827E:Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Info: Vérification du composant de la netliste "R101:/5C2E8351:Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Info: Vérification du composant de la netliste "Q102:/5C66A6EB:TO_SOT_Packages_THT:TO-92_Inline_Wide".
+
+Info: Vérification du composant de la netliste "R108:/5C2FEEE5:Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Info: Vérification du composant de la netliste "PCB101:/5C2B9144:mini victory l298n - H bridge driver:miniVictoryL298N".
+
+Info: Vérification du composant de la netliste "J106:/5C34BD2F:Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm".
+
+Info: Vérification du composant de la netliste "J105:/5C3198A8:Pin_Headers:Pin_Header_Straight_2x03_Pitch2.54mm".
+
+Info: Vérification du composant de la netliste "J104:/5C581025:Pin_Headers:Pin_Header_Straight_2x02_Pitch2.54mm".
+
+Info: Vérification du composant de la netliste "J103:/5C47F120:Connectors_Molex:Molex_KK-6410-02_02x2.54mm_Straight".
+
+Info: Vérification du composant de la netliste "J102:/5C24661A:Connectors_Molex:Molex_KK-6410-06_06x2.54mm_Straight".
+
+Info: Vérification du composant de la netliste "J101:/5C2465EA:Connectors_Molex:Molex_KK-6410-06_06x2.54mm_Straight".
+
+Info: Vérification du composant de la netliste "U101:/5C4DF2C4:TO_SOT_Packages_THT:TO-220-3_Vertical".
+
+Info: Vérification du composant de la netliste "U109:/5C669E61:Pin_Headers:Pin_Header_Straight_1x07_Pitch2.54mm".
+
+Info: Vérification du composant de la netliste "U108:/5C536158:Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm".
+
+Info: Vérification du composant de la netliste "U107:/5C5360AC:Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm".
+
+Info: Vérification du composant de la netliste "U106:/5C535FAC:Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm".
+
+Info: Vérification du composant de la netliste "U105:/5C2C35D5:Pin_Headers:Pin_Header_Straight_1x07_Pitch2.54mm".
+
+Info: Vérification du composant de la netliste "U104:/5C2C3643:Pin_Headers:Pin_Header_Straight_1x07_Pitch2.54mm".
+
+Info: Vérification du composant de la netliste "U103:/5C2BF47E:Pin_Headers:Pin_Header_Angled_1x03_Pitch2.54mm".
+
+Info: Vérification du composant de la netliste "U102:/5C2BF51E:Pin_Headers:Pin_Header_Angled_1x03_Pitch2.54mm".
+
+Info: Vérification du composant de la netliste "BT101:/5C4D88AA:".
+
+Info: Vérification du composant de la netliste "SW104:/5C4D9482:Buttons_Switches_THT:SW_CuK_OS102011MA1QN1_SPDT_Angled".
+
+Info: Vérification du composant de la netliste "SW103:/5C2E5C94:Buttons_Switches_THT:SW_PUSH_6mm_h4.3mm".
+
+Info: Vérification du composant de la netliste "SW102:/5C2E5C52:Buttons_Switches_THT:SW_PUSH_6mm_h4.3mm".
+
+Info: Vérification du composant de la netliste "SW101:/5C2E5D64:Buttons_Switches_THT:SW_PUSH_6mm_h4.3mm".
+
+Info: Vérification du composant de la netliste "R117:/5C416FDC:Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Info: Vérification du composant de la netliste "R116:/5C74226E:Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Info: Vérification du composant de la netliste "R109:/5C78FA26:Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Info: Vérification du composant de la netliste "C101:/5C685591:Capacitors_THT:CP_Radial_D5.0mm_P2.50mm".
+
+Info: Vérification du composant de la netliste "D109:/5C7420E5:LEDs:LED_D5.0mm".
+
+Info: Vérification du composant de la netliste "D101:/5C2FEF7E:LEDs:LED_D5.0mm".
+
+Info: Vérification du composant de la netliste "IC101:/5C241451:lib:pro_mini".
+
+Info: Vérification du composant de la netliste "D110:/5C416EB4:LEDs:LED_D5.0mm".
+
+Info: Vérification du composant de la netliste "D102:/5C2FEFEA:LEDs:LED_D5.0mm".
+
+Info: Vérification du composant de la netliste "C102:/5C68551F:Capacitors_THT:CP_Radial_D5.0mm_P2.50mm".
+
+Changement empreinte "SW102:/5C2E5C52" pin "1"  net "" en "/Button2".
+
+Changement empreinte "SW102:/5C2E5C52" pin "1"  net "" en "/Button2".
+
+Changement empreinte "SW102:/5C2E5C52" pin "2"  net "" en "-BATT".
+
+Changement empreinte "SW101:/5C2E5D64" pin "1"  net "" en "/Reset".
+
+Changement empreinte "SW102:/5C2E5C52" pin "2"  net "" en "-BATT".
+
+Ajout du nouveau symbole "SW102:/5C2E5C52" empreinte "Buttons_Switches_THT:SW_PUSH_6mm_h4.3mm".
+
+Ajout du nouveau symbole "D101:/5C2FEF7E" empreinte "LEDs:LED_D5.0mm".
+
+Changement empreinte "SW101:/5C2E5D64" pin "2"  net "" en "-BATT".
+
+Changement empreinte "SW101:/5C2E5D64" pin "1"  net "" en "/Reset".
+
+Changement empreinte "SW101:/5C2E5D64" pin "2"  net "" en "-BATT".
+
+Changement empreinte "R117:/5C416FDC" pin "1"  net "" en "Net-(D110-Pad1)".
+
+Ajout du nouveau symbole "SW103:/5C2E5C94" empreinte "Buttons_Switches_THT:SW_PUSH_6mm_h4.3mm".
+
+Changement empreinte "SW103:/5C2E5C94" pin "1"  net "" en "/Button1".
+
+Changement empreinte "SW103:/5C2E5C94" pin "2"  net "" en "-BATT".
+
+Changement empreinte "SW103:/5C2E5C94" pin "1"  net "" en "/Button1".
+
+Changement empreinte "SW103:/5C2E5C94" pin "2"  net "" en "-BATT".
+
+Changement empreinte "C102:/5C68551F" pin "1"  net "" en "/5V".
+
+Ajout du nouveau symbole "SW104:/5C4D9482" empreinte "Buttons_Switches_THT:SW_CuK_OS102011MA1QN1_SPDT_Angled".
+
+Changement empreinte "SW104:/5C4D9482" pin "2"  net "" en "/AlimArduino".
+
+Changement empreinte "SW104:/5C4D9482" pin "1"  net "" en "+BATT".
+
+Changement empreinte "C102:/5C68551F" pin "2"  net "" en "-BATT".
+
+Ajout du nouveau symbole "U101:/5C4DF2C4" empreinte "TO_SOT_Packages_THT:TO-220-3_Vertical".
+
+Ajout du nouveau symbole "D102:/5C2FEFEA" empreinte "LEDs:LED_D5.0mm".
+
+Changement empreinte "R105:/5C61CC33" pin "2"  net "" en "/TOF_SDA".
+
+Ajout du nouveau symbole "R106:/5C78FABF" empreinte "Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Changement empreinte "R106:/5C78FABF" pin "2"  net "" en "/TOF2_XSHUT_CTRL".
+
+Changement empreinte "R106:/5C78FABF" pin "1"  net "" en "Net-(Q101-Pad2)".
+
+Changement empreinte "D102:/5C2FEFEA" pin "1"  net "" en "-BATT".
+
+Ajout du nouveau symbole "R107:/5C2FEE8B" empreinte "Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Changement empreinte "R107:/5C2FEE8B" pin "1"  net "" en "Net-(D101-Pad2)".
+
+Changement empreinte "R107:/5C2FEE8B" pin "2"  net "" en "/Led1".
+
+Changement empreinte "D102:/5C2FEFEA" pin "2"  net "" en "Net-(D102-Pad2)".
+
+Ajout du nouveau symbole "R108:/5C2FEEE5" empreinte "Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Changement empreinte "R108:/5C2FEEE5" pin "2"  net "" en "/Led2".
+
+Changement empreinte "R108:/5C2FEEE5" pin "1"  net "" en "Net-(D102-Pad2)".
+
+Ajout du nouveau symbole "SW101:/5C2E5D64" empreinte "Buttons_Switches_THT:SW_PUSH_6mm_h4.3mm".
+
+Ajout du nouveau symbole "R109:/5C78FA26" empreinte "Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Changement empreinte "R109:/5C78FA26" pin "1"  net "" en "Net-(Q102-Pad2)".
+
+Changement empreinte "R109:/5C78FA26" pin "2"  net "" en "/TOF3_XSHUT_CTRL".
+
+Ajout du nouveau symbole "R116:/5C74226E" empreinte "Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Changement empreinte "R116:/5C74226E" pin "1"  net "" en "Net-(D109-Pad1)".
+
+Changement empreinte "R116:/5C74226E" pin "2"  net "" en "-BATT".
+
+Changement empreinte "D101:/5C2FEF7E" pin "2"  net "" en "Net-(D101-Pad2)".
+
+Ajout du nouveau symbole "R117:/5C416FDC" empreinte "Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Changement empreinte "R117:/5C416FDC" pin "2"  net "" en "-BATT".
+
+Changement empreinte "U101:/5C4DF2C4" pin "2"  net "" en "-BATT".
+
+Changement empreinte "D101:/5C2FEF7E" pin "1"  net "" en "-BATT".
+
+Changement empreinte "U107:/5C5360AC" pin "1"  net "" en "/distanceSensor2".
+
+Changement empreinte "U105:/5C2C35D5" pin "4"  net "" en "/TOF_SDA".
+
+Changement empreinte "U105:/5C2C35D5" pin "3"  net "" en "-BATT".
+
+Changement empreinte "U105:/5C2C35D5" pin "2"  net "" en "/5V".
+
+Changement empreinte "U105:/5C2C35D5" pin "1"  net "" en "/TOF2_VDD".
+
+Ajout du nouveau symbole "C101:/5C685591" empreinte "Capacitors_THT:CP_Radial_D5.0mm_P2.50mm".
+
+Ajout du nouveau symbole "U106:/5C535FAC" empreinte "Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm".
+
+Changement empreinte "U106:/5C535FAC" pin "1"  net "" en "/distanceSensor1".
+
+Changement empreinte "U106:/5C535FAC" pin "2"  net "" en "/5V".
+
+Changement empreinte "U106:/5C535FAC" pin "3"  net "" en "-BATT".
+
+Ajout du nouveau symbole "U107:/5C5360AC" empreinte "Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm".
+
+Changement empreinte "U107:/5C5360AC" pin "3"  net "" en "-BATT".
+
+Changement empreinte "U107:/5C5360AC" pin "2"  net "" en "/5V".
+
+Changement empreinte "U105:/5C2C35D5" pin "5"  net "" en "/TOF_SCL".
+
+Ajout du nouveau symbole "U108:/5C536158" empreinte "Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm".
+
+Changement empreinte "U108:/5C536158" pin "1"  net "" en "/distanceSensor3".
+
+Changement empreinte "U108:/5C536158" pin "2"  net "" en "/5V".
+
+Changement empreinte "U108:/5C536158" pin "3"  net "" en "-BATT".
+
+Ajout du nouveau symbole "U109:/5C669E61" empreinte "Pin_Headers:Pin_Header_Straight_1x07_Pitch2.54mm".
+
+Changement empreinte "U109:/5C669E61" pin "1"  net "" en "/TOF3_VDD".
+
+Changement empreinte "U109:/5C669E61" pin "2"  net "" en "/5V".
+
+Changement empreinte "U109:/5C669E61" pin "3"  net "" en "-BATT".
+
+Changement empreinte "U109:/5C669E61" pin "4"  net "" en "/TOF_SDA".
+
+Changement empreinte "U109:/5C669E61" pin "5"  net "" en "/TOF_SCL".
+
+Changement empreinte "U109:/5C669E61" pin "6"  net "" en "/TOF3_XSHUT".
+
+Changement empreinte "U109:/5C669E61" pin "7"  net "" en "Net-(U109-Pad7)".
+
+Ajout du nouveau symbole "U104:/5C2C3643" empreinte "Pin_Headers:Pin_Header_Straight_1x07_Pitch2.54mm".
+
+Changement empreinte "IC101:/5C241451" pin "5"  net "" en "/CoderLeftA".
+
+Changement empreinte "U101:/5C4DF2C4" pin "1"  net "" en "/AlimArduino".
+
+Ajout du nouveau symbole "C102:/5C68551F" empreinte "Capacitors_THT:CP_Radial_D5.0mm_P2.50mm".
+
+Ajout du nouveau symbole "U102:/5C2BF51E" empreinte "Pin_Headers:Pin_Header_Angled_1x03_Pitch2.54mm".
+
+Changement empreinte "U102:/5C2BF51E" pin "1"  net "" en "/groundSensor2".
+
+Changement empreinte "U102:/5C2BF51E" pin "2"  net "" en "/groundSensorEmitter".
+
+Changement empreinte "U102:/5C2BF51E" pin "3"  net "" en "-BATT".
+
+Ajout du nouveau symbole "U103:/5C2BF47E" empreinte "Pin_Headers:Pin_Header_Angled_1x03_Pitch2.54mm".
+
+Changement empreinte "U103:/5C2BF47E" pin "3"  net "" en "-BATT".
+
+Changement empreinte "U103:/5C2BF47E" pin "2"  net "" en "/groundSensorEmitter".
+
+Changement empreinte "U103:/5C2BF47E" pin "1"  net "" en "/groundSensor1".
+
+Changement empreinte "C101:/5C685591" pin "2"  net "" en "-BATT".
+
+Changement empreinte "U101:/5C4DF2C4" pin "3"  net "" en "/5V".
+
+Changement empreinte "U104:/5C2C3643" pin "7"  net "" en "/TOF1_GPIO1".
+
+Changement empreinte "U104:/5C2C3643" pin "6"  net "" en "/TOF1_XSHUT".
+
+Changement empreinte "U104:/5C2C3643" pin "5"  net "" en "/TOF_SCL".
+
+Changement empreinte "U104:/5C2C3643" pin "4"  net "" en "/TOF_SDA".
+
+Changement empreinte "U104:/5C2C3643" pin "3"  net "" en "-BATT".
+
+Changement empreinte "U104:/5C2C3643" pin "2"  net "" en "/5V".
+
+Changement empreinte "U104:/5C2C3643" pin "1"  net "" en "/TOF1_VDD".
+
+Changement empreinte "C101:/5C685591" pin "1"  net "" en "/AlimArduino".
+
+Ajout du nouveau symbole "U105:/5C2C35D5" empreinte "Pin_Headers:Pin_Header_Straight_1x07_Pitch2.54mm".
+
+Changement empreinte "U105:/5C2C35D5" pin "7"  net "" en "/TOF2_GPIO1".
+
+Changement empreinte "U105:/5C2C35D5" pin "6"  net "" en "/TOF2_XSHUT".
+
+Changement empreinte "J102:/5C24661A" pin "4"  net "" en "/CoderRightB".
+
+Ajout du nouveau symbole "J101:/5C2465EA" empreinte "Connectors_Molex:Molex_KK-6410-06_06x2.54mm_Straight".
+
+Changement empreinte "J101:/5C2465EA" pin "6"  net "" en "/MotorLeftN".
+
+Changement empreinte "J101:/5C2465EA" pin "5"  net "" en "/5V".
+
+Changement empreinte "J101:/5C2465EA" pin "4"  net "" en "/CoderLeftB".
+
+Changement empreinte "J101:/5C2465EA" pin "3"  net "" en "/CoderLeftA".
+
+Changement empreinte "J101:/5C2465EA" pin "2"  net "" en "-BATT".
+
+Changement empreinte "J101:/5C2465EA" pin "1"  net "" en "/MotorLeftP".
+
+Changement empreinte "IC101:/5C241451" pin "2"  net "" en "/RX".
+
+Ajout du nouveau symbole "J102:/5C24661A" empreinte "Connectors_Molex:Molex_KK-6410-06_06x2.54mm_Straight".
+
+Changement empreinte "J102:/5C24661A" pin "1"  net "" en "/MotorRightP".
+
+Changement empreinte "J102:/5C24661A" pin "2"  net "" en "-BATT".
+
+Changement empreinte "J102:/5C24661A" pin "3"  net "" en "/CoderRightA".
+
+Changement empreinte "IC101:/5C241451" pin "3"  net "" en "/Reset".
+
+Changement empreinte "J102:/5C24661A" pin "5"  net "" en "/5V".
+
+Changement empreinte "J102:/5C24661A" pin "6"  net "" en "/MotorRightN".
+
+Changement empreinte "IC101:/5C241451" pin "1"  net "" en "/TX".
+
+Ajout du nouveau symbole "J103:/5C47F120" empreinte "Connectors_Molex:Molex_KK-6410-02_02x2.54mm_Straight".
+
+Changement empreinte "J103:/5C47F120" pin "2"  net "" en "-BATT".
+
+Changement empreinte "J103:/5C47F120" pin "1"  net "" en "+BATT".
+
+Changement empreinte "IC101:/5C241451" pin "27"  net "" en "/distanceSensor3".
+
+Ajout du nouveau symbole "J104:/5C581025" empreinte "Pin_Headers:Pin_Header_Straight_2x02_Pitch2.54mm".
+
+Changement empreinte "J104:/5C581025" pin "4"  net "" en "/TX".
+
+Changement empreinte "J104:/5C581025" pin "3"  net "" en "/Led2".
+
+Changement empreinte "J104:/5C581025" pin "2"  net "" en "/RX".
+
+Changement empreinte "J104:/5C581025" pin "1"  net "" en "/Button2".
+
+Changement empreinte "IC101:/5C241451" pin "17"  net "" en "/groundSensor1".
+
+Changement empreinte "IC101:/5C241451" pin "4"  net "" en "-BATT".
+
+Changement empreinte "IC101:/5C241451" pin "6"  net "" en "/CoderRightA".
+
+Changement empreinte "IC101:/5C241451" pin "7"  net "" en "/arduinoGroundSensorEmitter".
+
+Changement empreinte "IC101:/5C241451" pin "8"  net "" en "/IN1_HBridge".
+
+Changement empreinte "IC101:/5C241451" pin "9"  net "" en "/IN3_HBridge".
+
+Changement empreinte "IC101:/5C241451" pin "10"  net "" en "/CoderLeftB".
+
+Changement empreinte "IC101:/5C241451" pin "11"  net "" en "/CoderRightB".
+
+Changement empreinte "IC101:/5C241451" pin "12"  net "" en "/TOF3_XSHUT_CTRL".
+
+Changement empreinte "IC101:/5C241451" pin "13"  net "" en "/IN2_HBridge".
+
+Changement empreinte "IC101:/5C241451" pin "14"  net "" en "/IN4_HBridge".
+
+Changement empreinte "IC101:/5C241451" pin "15"  net "" en "/TOF2_XSHUT_CTRL".
+
+Changement empreinte "IC101:/5C241451" pin "16"  net "" en "/Led1".
+
+Ajout du nouveau symbole "R105:/5C61CC33" empreinte "Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Changement empreinte "IC101:/5C241451" pin "18"  net "" en "/groundSensor2".
+
+Changement empreinte "IC101:/5C241451" pin "19"  net "" en "/distanceSensor1".
+
+Changement empreinte "IC101:/5C241451" pin "20"  net "" en "/distanceSensor2".
+
+Changement empreinte "IC101:/5C241451" pin "21"  net "" en "Net-(IC101-Pad21)".
+
+Changement empreinte "IC101:/5C241451" pin "22"  net "" en "/Reset".
+
+Changement empreinte "IC101:/5C241451" pin "23"  net "" en "-BATT".
+
+Changement empreinte "IC101:/5C241451" pin "24"  net "" en "/AlimArduino".
+
+Changement empreinte "IC101:/5C241451" pin "25"  net "" en "/TOF_SDA".
+
+Changement empreinte "IC101:/5C241451" pin "26"  net "" en "/TOF_SCL".
+
+Changement empreinte "IC101:/5C241451" pin "27"  net "" en "/distanceSensor3".
+
+Changement empreinte "IC101:/5C241451" pin "28"  net "" en "/Button1".
+
+Changement empreinte "IC101:/5C241451" pin "29"  net "" en "-BATT".
+
+Ajout du nouveau symbole "R102:/5C2E827E" empreinte "Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Changement empreinte "Q101:/5C6FB04E" pin "1"  net "" en "-BATT".
+
+Changement empreinte "Q101:/5C6FB04E" pin "3"  net "" en "/TOF2_XSHUT".
+
+Changement empreinte "Q101:/5C6FB04E" pin "2"  net "" en "Net-(Q101-Pad2)".
+
+Changement empreinte "D110:/5C416EB4" pin "1"  net "" en "Net-(D110-Pad1)".
+
+Ajout du nouveau symbole "Q102:/5C66A6EB" empreinte "TO_SOT_Packages_THT:TO-92_Inline_Wide".
+
+Changement empreinte "Q102:/5C66A6EB" pin "2"  net "" en "Net-(Q102-Pad2)".
+
+Changement empreinte "Q102:/5C66A6EB" pin "3"  net "" en "/TOF3_XSHUT".
+
+Changement empreinte "Q102:/5C66A6EB" pin "1"  net "" en "-BATT".
+
+Ajout du nouveau symbole "D110:/5C416EB4" empreinte "LEDs:LED_D5.0mm".
+
+Ajout du nouveau symbole "R101:/5C2E8351" empreinte "Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Changement empreinte "R101:/5C2E8351" pin "2"  net "" en "/Reset".
+
+Changement empreinte "R101:/5C2E8351" pin "1"  net "" en "/5V".
+
+Ajout du nouveau symbole "J105:/5C3198A8" empreinte "Pin_Headers:Pin_Header_Straight_2x03_Pitch2.54mm".
+
+Changement empreinte "R102:/5C2E827E" pin "2"  net "" en "/Button2".
+
+Changement empreinte "R102:/5C2E827E" pin "1"  net "" en "/5V".
+
+Changement empreinte "D109:/5C7420E5" pin "1"  net "" en "Net-(D109-Pad1)".
+
+Ajout du nouveau symbole "R103:/5C2E8244" empreinte "Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Changement empreinte "R103:/5C2E8244" pin "1"  net "" en "/5V".
+
+Changement empreinte "R103:/5C2E8244" pin "2"  net "" en "/Button1".
+
+Changement empreinte "D109:/5C7420E5" pin "2"  net "" en "/5V".
+
+Ajout du nouveau symbole "R104:/5C61CC9F" empreinte "Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Changement empreinte "R104:/5C61CC9F" pin "2"  net "" en "/TOF_SCL".
+
+Changement empreinte "R104:/5C61CC9F" pin "1"  net "" en "/5V".
+
+Ajout du nouveau symbole "D109:/5C7420E5" empreinte "LEDs:LED_D5.0mm".
+
+Changement empreinte "R105:/5C61CC33" pin "1"  net "" en "/5V".
+
+Changement empreinte "D110:/5C416EB4" pin "2"  net "" en "/AlimArduino".
+
+Changement empreinte "IC101:/5C241451" pin "28"  net "" en "/Button1".
+
+Changement empreinte "J105:/5C3198A8" pin "6"  net "" en "-BATT".
+
+Changement empreinte "J105:/5C3198A8" pin "5"  net "" en "-BATT".
+
+Changement empreinte "J105:/5C3198A8" pin "4"  net "" en "+BATT".
+
+Changement empreinte "J105:/5C3198A8" pin "3"  net "" en "/TX".
+
+Changement empreinte "J105:/5C3198A8" pin "2"  net "" en "+BATT".
+
+Changement empreinte "J105:/5C3198A8" pin "1"  net "" en "/RX".
+
+Ajout du nouveau symbole "IC101:/5C241451" empreinte "lib:pro_mini".
+
+Ajout du nouveau symbole "J106:/5C34BD2F" empreinte "Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm".
+
+Changement empreinte "J106:/5C34BD2F" pin "3"  net "" en "/arduinoGroundSensorEmitter".
+
+Changement empreinte "J106:/5C34BD2F" pin "2"  net "" en "/groundSensorEmitter".
+
+Changement empreinte "J106:/5C34BD2F" pin "1"  net "" en "/5V".
+
+Ajout du nouveau symbole "PCB101:/5C2B9144" empreinte "mini victory l298n - H bridge driver:miniVictoryL298N".
+
+Ajout du nouveau symbole "Q101:/5C6FB04E" empreinte "TO_SOT_Packages_THT:TO-92_Inline_Wide".
+
+Changement empreinte "PCB101:/5C2B9144" pin "10"  net "" en "/MotorRightP".
+
+Changement empreinte "PCB101:/5C2B9144" pin "9"  net "" en "/MotorRightN".
+
+Changement empreinte "PCB101:/5C2B9144" pin "8"  net "" en "/MotorLeftP".
+
+Changement empreinte "PCB101:/5C2B9144" pin "7"  net "" en "/MotorLeftN".
+
+Changement empreinte "PCB101:/5C2B9144" pin "6"  net "" en "/IN4_HBridge".
+
+Changement empreinte "PCB101:/5C2B9144" pin "5"  net "" en "/IN3_HBridge".
+
+Changement empreinte "PCB101:/5C2B9144" pin "4"  net "" en "/IN2_HBridge".
+
+Changement empreinte "PCB101:/5C2B9144" pin "3"  net "" en "/IN1_HBridge".
+
+Changement empreinte "PCB101:/5C2B9144" pin "2"  net "" en "-BATT".
+
+Changement empreinte "PCB101:/5C2B9144" pin "1"  net "" en "/AlimArduino".
+
+Erreur: Pas d'empreinte définie pour le composant "BT101".
+
+Erreur: Impossible d'ajouter le composant nouveau "BT101:/5C4D88AA" car l'empreinte "" est manquante.
+
+Erreur: Composant "U104" pad "~" non trouvé dans l'empreinte "Pin_Headers:Pin_Header_Straight_1x07_Pitch2.54mm"
+
+Erreur: Composant "U104" pad "~" non trouvé dans l'empreinte "Pin_Headers:Pin_Header_Straight_1x07_Pitch2.54mm"
+
+Erreur: Composant "U105" pad "~" non trouvé dans l'empreinte "Pin_Headers:Pin_Header_Straight_1x07_Pitch2.54mm"
+
+Erreur: Composant "U105" pad "~" non trouvé dans l'empreinte "Pin_Headers:Pin_Header_Straight_1x07_Pitch2.54mm"
+
+Erreur: Composant "U109" pad "~" non trouvé dans l'empreinte "Pin_Headers:Pin_Header_Straight_1x07_Pitch2.54mm"
+
+Erreur: Composant "U109" pad "~" non trouvé dans l'empreinte "Pin_Headers:Pin_Header_Straight_1x07_Pitch2.54mm"
+
