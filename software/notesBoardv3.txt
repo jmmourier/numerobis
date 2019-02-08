@@ -1,0 +1,32 @@
+Droite et gauche du point de vue du robot
+
+Button 1 - analogRead A7 - - OK
+il faut penser au jumper
+ne fonctionne pas en digital,
+
+Led 1 - digital Write 13 - - OK
+redondant avec la led arduino pro mini
+
+Sharp 1 - analogRead A2 - gauche - OK
+Sharp 2 - analogRead A3 - millieu - OK
+Sharp 3 - analogRead A6 - droite - OK
+
+Ground 1 - analogRead A0 - drotie - OK
+Ground 2 - analogRead A1 - gauche - OK
+groundemitter - HS
+the emitter does not work here as the power is the same for the pinPullup
+the modification should be to add a pullup on the pin, but this will have an influance on the Vinpin.
+this should be tested, but is not certified to work.
+so for now, 5V should be on all the time
+
+TOF 1 - no xshut - avant
+TOF 2 - xshut2 - droite
+TOF 3 - xshut3 - gauche
+xshut low = stand by 
+so xshut from µC should be high to standby
+
+Moteur 1 - gauche - 5(PWM) 10 (PWM) - OK
+Moteur 2 - droit -  6(PWM) 11 (PWM) - OK 
+
+Codeur 1 AB - gauche - 2(int) 7 - OK
+Codeur 2 AB - droite - 3(int) 8 - OK
