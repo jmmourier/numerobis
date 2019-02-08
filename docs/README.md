@@ -1,9 +1,9 @@
-#Numerobis
+# Numerobis
 
 Welcome on Numerobis Github information page.
 
-##Presentation
+## Presentation
 This robot is the first version from scratch to compet in sumobot / robot-sumo challenge
 
-##Architecture
+## Architecture
 More information should come after the competition
