@@ -36,6 +36,8 @@ jumper for QTR sensor emitter from arduino or 5V, should be 5V
 #define PIN_BUTTON A7    
 #define PIN_LED 13     
 
+#define VMAX 90
+
 enum Componants
 {
 	TofLeft,
@@ -70,16 +72,36 @@ public:
 
 	void updateSensor();
 	void setLed(bool flag);
+
+
+	/* values
+	for interface button 1024 = normal, 0 = pushed
+	for QTR sensor blask ~= 900 white ~= 100
+	*/
 	int getSensorValue(Componants componantID);
 
 	void setSpeed(int vMotRight, int vMotLeft);
+
+	int hasTofTimeout(Componants componantID);
+
+	void enableAsserv(bool flag);
+	void setTargetEncoder(int setLeftWheelTarget, int setRightWheelTarget);
+	void setZeroAsserv();
+	void processAsserv();
+
+	void setTargetAsserv(int distance, int orientation);
+	void processAsservEnhanced();
+	
+	// send true when target is reached or timeouted
+	bool isTargetReached();
+
+	void stopSideTof();
 
 /*
 	TODO
 
 	void setPosition(position);
 	void enableAsserv(flag);
-	void processAsserv();
 	void setAsservParameters(Kp Ki Kd Freq Tolerance)
 
 	int isObstacle();
@@ -121,8 +143,25 @@ private:
 	bool timeoutTof2;
 	bool timeoutTof3;
 
+	bool asservEnabled;
+	int leftWheelTarget;
+	int rightWheelTarget;
 
+	int sumErrorLeft;
+	int sumErrorRight;
 
+	int targetDistance;
+	int targerOrientation;
+
+	void setOrientation(int orientation);
+	void setDistance(int distance);
+	unsigned long timeLastEnhancedAsserv; 
+	long oldRightEncoderValue;
+	long oldLeftEncoderValue;
+
+	bool enableSideTof;
+	bool targetReached;
+	unsigned long timeCommandAsserv;
 };
 
 
@@ -141,24 +180,24 @@ Encoder left and right count is opposite as they are inversed on the robot.
 when the robot is going forward, one motor is going CW, while the other is CCW
 */
 
-static volatile long EncoderLeftValue;
-static volatile long EncoderRightValue;
+static volatile long EncoderLeftValue = 0;
+static volatile long EncoderRightValue = 0;
 
 static void handleEncoderLeft()
 {
 	if(digitalRead(PIN_ENCODER_L_A) == 1)
 	{
 		if(digitalRead(PIN_ENCODER_L_B) == 1)
-			EncoderLeftValue--;
-		else
 			EncoderLeftValue++;
+		else
+			EncoderLeftValue--;
 	}
 	else // PIN_ENCODER_L_A = 0
 	{
 		if(digitalRead(PIN_ENCODER_L_B) == 1)
-			EncoderLeftValue++;
-		else
 			EncoderLeftValue--;
+		else
+			EncoderLeftValue++;
 	}
 }
 
@@ -167,15 +206,15 @@ static void handleEncoderRight()
 	if(digitalRead(PIN_ENCODER_R_A) == 1)
 	{
 		if(digitalRead(PIN_ENCODER_R_B) == 1)
-			EncoderRightValue++;
-		else
 			EncoderRightValue--;
+		else
+			EncoderRightValue++;
 	}
 	else // PIN_ENCODER_L_A = 0
 	{
 		if(digitalRead(PIN_ENCODER_R_B) == 1)
-			EncoderRightValue--;
-		else
 			EncoderRightValue++;
+		else
+			EncoderRightValue--;
 	}
 }
